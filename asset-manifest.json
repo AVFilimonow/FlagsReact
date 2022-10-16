@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlagsReact/static/css/main.894ab19e.css",
+    "main.js": "/FlagsReact/static/js/main.b9e019c7.js",
+    "index.html": "/FlagsReact/index.html",
+    "main.894ab19e.css.map": "/FlagsReact/static/css/main.894ab19e.css.map",
+    "main.b9e019c7.js.map": "/FlagsReact/static/js/main.b9e019c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.894ab19e.css",
+    "static/js/main.b9e019c7.js"
+  ]
+}
